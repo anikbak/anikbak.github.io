@@ -9,5 +9,7 @@ It's not like I know any HTML or even any economics, for that matter, but I did 
 
 ## Contact Me
 Email me: [``anikbak@stanford.edu``](mailto:anikbak@stanford.edu)
+
 Tweet me: [``@aniketbaksy``](https://twitter.com/aniketbaksy)
+
 My Blog (I need to get started on this again!): [``Irrationally Exuberant``](https://irrationallyexuberantanikbak.wordpress.com/)
