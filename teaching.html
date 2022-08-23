@@ -21,9 +21,64 @@
       ga('create', 'UA-65546321-1', 'auto');
       ga('send', 'pageview');
     </script>
-    <!-- Github button-->
+    <!-- Github button -->
     <script async defer src="https://buttons.github.io/buttons.js"></script>
-    </script>
+    <style>
+      button.accordion2 {
+      font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      cursor: pointer;
+      padding: 0px;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 100%;
+      transition: 0.4s;
+      background-color: #f8f8f8;
+      }
+      button.accordion {
+      font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      cursor: pointer;
+      padding: 0px;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 100%;
+      transition: 0.4s;
+      background-color: #f8f8f8;
+      }
+      button.accordion.active, button.accordion:hover {
+      background-color: #f8f8f8;
+      }
+      button.accordion:after {
+      content: '[+]';
+      font-size: 90%;
+      color:#777;
+      float: left;
+      margin-left: 1px;
+      }
+
+      button.accordion2:after {
+      content: '[#]';
+      font-size: 90%;
+      color:#777;
+      float: left;
+      margin-left: 1px;
+      }
+
+      button.accordion.active:after {
+      content: "[\2212]";
+      }
+      div.panel {
+      padding: 0 20px;
+      margin-top: 5px;
+      display: none;
+      background-color: white;
+      font-size: 100%;
+      }
+      div.panel.show {
+      display: block !important;
+      }
+    </style>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PL2T814GN"></script>
     <script>
@@ -37,7 +92,7 @@
   <body>
     <div class="wrapper">
       <header>
-	<br>
+        <br>
         <h1><a href="https://anikbak.github.io/"><b>Aniket Baksy</b></a></h1>
         <p>Ph.D. candidate in Economics <br /> Stanford University <br /> <img src="at.png" width=150 height=17> </p>
         <h3><p class="view"><a href="https://anikbak.github.io/">Home</a></p></h3>
@@ -51,14 +106,27 @@
       <section>
 	<br>
 	<br>
-        <!--<h3><a id="updates" class="anchor" href="#updates" aria-hidden="true"><span class="octicon octicon-link"></span></a>About me:</h3>-->
-	<p>  Hello, and welcome to my website!<br />
-	I am a Ph.D. candidate in the Economics department at <a href="https://economics.stanford.edu/"  target="_blank">Stanford</a>.<br />
-	My <a style="font-weight:bold" href="https://anikbak.github.io/research.html">research</a> focuses on the macroeconomics of growth, specifically on the intersection of firm dynamics, technical change and the impacts these forces have on labor markets.</p><br />
-	<p><a style="font-weight:bold">I will be on the job market during the 2022-2023 academic year.</a></p><br />
-	<p>For more details here is my <class="view"><a href="https://anikbak.github.io/CV/cv.pdf" target="_blank">CV</a>.</p>
-      </section>
+	<!-- TEACHING -->
+	<h3>
+	  <a id="course number 1" class="anchor" href="#class1" aria-hidden="true"><span class="octicon octicon-link"></span></a>Courses:</h3>
+	<br>
+	<p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://anikbak.github.io/teaching/econ_52_stanford.html">International Finance</a> <br></p>	
+	<p style="margin:0;" }><p > <a style="margin:0; font-size:100%; font-weight:bold" href="https://anikbak.github.io/teaching/econ_143.html">Health Economics</a> <br></p>
+	<br>
+	<br>
+</section>	
     </div>
     <script src="javascripts/scale.fix.js"></script>
+    <script> 
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+
+    for (i = 0; i < acc.length; i++) {
+        acc[i].onclick = function(){
+            this.classList.toggle("active");
+            this.parentNode.nextElementSibling.classList.toggle("show");
+      }
+    }
+    </script>
   </body>
 </html>
