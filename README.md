@@ -12,4 +12,6 @@ Email me: [``anikbak@stanford.edu``](mailto:anikbak@stanford.edu)
 
 Tweet me: [``@aniketbaksy``](https://twitter.com/aniketbaksy)
 
+LinkedIn: [``anikbak``](https://www.linkedin.com/in/anikbak/)
+
 My Blog (I need to get started on this again!): [``Irrationally Exuberant``](https://irrationallyexuberantanikbak.wordpress.com/)
