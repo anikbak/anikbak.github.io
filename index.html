@@ -55,10 +55,22 @@
 	<p>  Hello, and welcome to my website!<br />
 	I am a Ph.D. candidate in the Economics department at <a href="https://economics.stanford.edu/"  target="_blank">Stanford</a>.<br />
 	My <a style="font-weight:bold" href="https://anikbak.github.io/research.html">research</a> focuses on the macroeconomics of growth, specifically on the intersection of firm dynamics, technical change and the impacts these forces have on labor markets.</p><br />
-	<p><a style="font-weight:bold">I will be on the job market during the 2022-2023 academic year.</a></p><br />
-	<p>For more details here is my <class="view"><a href="https://anikbak.github.io/CV/cv.pdf" target="_blank">CV</a>.</p>
+	<p><a style="font-weight:bold">I will be on the job market in academic year 2022-2023.</a></p><br/>
+	<p>You can find my CV <class="view"><a href="https://anikbak.github.io/CV/cv.pdf" target="_blank">here</a>.</p>
       </section>
+
     </div>
     <script src="javascripts/scale.fix.js"></script>
+    <script> 
+      var acc = document.getElementsByClassName("accordion");
+      var i;
+      
+      for (i = 0; i < acc.length; i++) {
+          acc[i].onclick = function(){
+              this.classList.toggle("active");
+              this.parentNode.nextElementSibling.classList.toggle("show");
+        }
+      }
+    </script>
   </body>
 </html>
