@@ -180,9 +180,11 @@ hr {
 
 footer {
   width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
+  float:center;
+  position:right;
+  font-size: small;
+  height: 100px;
+  bottom: 20px;
 }
 
 @media print, screen and (max-width: 960px) {
