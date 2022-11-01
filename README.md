@@ -1,7 +1,7 @@
 # Aniket's Website
 
 ## Introduction
-If you visited my [website](https://anikbak.github.io/), which you absolutely should, you probably know that I'm a graduate student at the Department of Economics at Stanford University, and that I'm on the market in Winter 2022-23.
+If you visited my [website](https://web.stanford.edu/~anikbak/), which you absolutely should, you probably know that I'm a graduate student at the Department of Economics at Stanford University, and that I'm on the market in Winter 2022-23.
 
 It's not like I know HTML, CSS, JavaScript, or even much economics, for that matter, but I did manage to scrap together a bunch of codes from different sources and figure out some basics to put this website together. Some sources I consulted and got files from: 
 
