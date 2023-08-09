@@ -37,3 +37,17 @@
 	color: #191A42;
 	font-family:opendyslexic !important;
 }
+
+@font-face{
+	font-family: 'cmu-sans-serif';
+	src: url('https://anikbak.github.io/fonts/Sans/cmunss.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: 'cmu-sans-serif';
+	src: url('https://anikbak.github.io/fonts/Sans/cmunss.ttf');
+	font-weight: normal;
+	font-style: normal;
+}

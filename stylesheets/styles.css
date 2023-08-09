@@ -1,11 +1,19 @@
 @import url('http://dyslexicfonts.com/fonts/OpenDyslexic-Regular.otf');
 
-body {
+/* body {
   padding:17.5px;
   font:16px/1.5 Lato, "Trebuchet MS", Helvetica, sans-serif;
   color:#777;
   font-weight:300;
+} */
+
+body {
+  padding:17.5px;
+  /*font:16px/1.5 Lato, "Trebuchet MS", Helvetica, sans-serif;*/
+  color:#777;
+  font-weight:300;
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
