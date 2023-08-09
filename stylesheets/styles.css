@@ -1,6 +1,7 @@
-@import url('http://dyslexicfonts.com/fonts/OpenDyslexic-Regular.otf');
+/*@import url('http://dyslexicfonts.com/fonts/OpenDyslexic-Regular.otf');*/
 
-/* body {
+/*@import url('https://anikbak.github.io/fonts/Sans/cmunss.ttf');
+body {
   padding:17.5px;
   font:16px/1.5 Lato, "Trebuchet MS", Helvetica, sans-serif;
   color:#777;
@@ -9,11 +10,10 @@
 
 body {
   padding:17.5px;
-  /*font:16px/1.5 Lato, "Trebuchet MS", Helvetica, sans-serif;*/
   color:#777;
   font-weight:300;
+  font-family: "Computer Modern Sans", sans-serif;
 }
-
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
