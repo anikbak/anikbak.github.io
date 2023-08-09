@@ -11,9 +11,9 @@ It's not like I know HTML, CSS, JavaScript, or even much economics, for that mat
 * Andrey Panov's implementation of the Computer Modern Family of Fonts at [``http://cm-unicode.sourceforge.net/``](http://cm-unicode.sourceforge.net/).
 
 ## Contact Me
-Email me: [``anikbak@stanford.edu``](mailto:anikbak@stanford.edu)
+Email me: [``anikbak@gmail.com``](mailto:anikbak@gmail.com)
 
-Tweet me: [``@aniketbaksy``](https://twitter.com/aniketbaksy)
+"Tweet" me: [``@aniketbaksy``](https://twitter.com/aniketbaksy)
 
 LinkedIn: [``anikbak``](https://www.linkedin.com/in/anikbak/)
 
