@@ -41,8 +41,9 @@ h3, h4, h5, h6 {
 }
 
 a {
-  /*color:#8c1515;*/
-  color:#00bfb2;
+  /*color:#8c1515;
+  color:#00bfb2;*/
+  color:#003b49;
   font-weight:400;
   text-decoration:none;
 }
