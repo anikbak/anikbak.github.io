@@ -10,7 +10,7 @@ body {
 
 body {
   padding:17.5px;
-  color:#003b49;
+  color:#000F46;
   font-weight:300;
   font-family: "Computer Modern Sans", sans-serif;
 }
@@ -43,7 +43,7 @@ h3, h4, h5, h6 {
 a {
   /*color:#8c1515;
   color:#00bfb2;*/
-  color:#003b49;
+  color:#000F46;
   font-weight:400;
   text-decoration:none;
 }
