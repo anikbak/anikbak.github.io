@@ -46,10 +46,12 @@ a {
   color:#000F46;
   font-weight:400;
   text-decoration:none;
+  font-family: "Computer Modern Sans", sans-serif;
 }
 
 a small {
   font-size:11px;
+  font-family: "Computer Modern Sans", sans-serif;
   color:#94a596;
   margin-top:-0.6em;
   display:block;
